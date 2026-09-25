@@ -4,6 +4,7 @@
 /home/brayan/Repository/TCC/aquacare-backend/src/main/java/br/edu/ifpr/aquacare/controller/AquarioController.java
 /home/brayan/Repository/TCC/aquacare-backend/src/main/java/br/edu/ifpr/aquacare/controller/EquipamentoController.java
 /home/brayan/Repository/TCC/aquacare-backend/src/main/java/br/edu/ifpr/aquacare/controller/PlantaController.java
+/home/brayan/Repository/TCC/aquacare-backend/src/main/java/br/edu/ifpr/aquacare/controller/RegistroParametroController.java
 /home/brayan/Repository/TCC/aquacare-backend/src/main/java/br/edu/ifpr/aquacare/controller/UsuarioController.java
 /home/brayan/Repository/TCC/aquacare-backend/src/main/java/br/edu/ifpr/aquacare/entity/Animal.java
 /home/brayan/Repository/TCC/aquacare-backend/src/main/java/br/edu/ifpr/aquacare/entity/AnimalAquario.java
