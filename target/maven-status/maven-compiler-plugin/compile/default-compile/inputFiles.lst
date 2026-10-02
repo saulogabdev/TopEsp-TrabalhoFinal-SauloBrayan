@@ -1,8 +1,12 @@
 /home/brayan/Repository/TCC/aquacare-backend/src/main/java/br/edu/ifpr/aquacare/AquacareApplication.java
 /home/brayan/Repository/TCC/aquacare-backend/src/main/java/br/edu/ifpr/aquacare/config/SecurityConfig.java
+/home/brayan/Repository/TCC/aquacare-backend/src/main/java/br/edu/ifpr/aquacare/controller/AnimalAquarioController.java
 /home/brayan/Repository/TCC/aquacare-backend/src/main/java/br/edu/ifpr/aquacare/controller/AnimalController.java
 /home/brayan/Repository/TCC/aquacare-backend/src/main/java/br/edu/ifpr/aquacare/controller/AquarioController.java
+/home/brayan/Repository/TCC/aquacare-backend/src/main/java/br/edu/ifpr/aquacare/controller/DispositivoNotificacaoController.java
 /home/brayan/Repository/TCC/aquacare-backend/src/main/java/br/edu/ifpr/aquacare/controller/EquipamentoController.java
+/home/brayan/Repository/TCC/aquacare-backend/src/main/java/br/edu/ifpr/aquacare/controller/LembreteController.java
+/home/brayan/Repository/TCC/aquacare-backend/src/main/java/br/edu/ifpr/aquacare/controller/PlantaAquarioController.java
 /home/brayan/Repository/TCC/aquacare-backend/src/main/java/br/edu/ifpr/aquacare/controller/PlantaController.java
 /home/brayan/Repository/TCC/aquacare-backend/src/main/java/br/edu/ifpr/aquacare/controller/RegistroParametroController.java
 /home/brayan/Repository/TCC/aquacare-backend/src/main/java/br/edu/ifpr/aquacare/controller/UsuarioController.java
@@ -29,6 +33,7 @@
 /home/brayan/Repository/TCC/aquacare-backend/src/main/java/br/edu/ifpr/aquacare/enums/Severidade.java
 /home/brayan/Repository/TCC/aquacare-backend/src/main/java/br/edu/ifpr/aquacare/enums/TipoAgua.java
 /home/brayan/Repository/TCC/aquacare-backend/src/main/java/br/edu/ifpr/aquacare/enums/TipoEquipamento.java
+/home/brayan/Repository/TCC/aquacare-backend/src/main/java/br/edu/ifpr/aquacare/exception/GlobalExceptionHandler.java
 /home/brayan/Repository/TCC/aquacare-backend/src/main/java/br/edu/ifpr/aquacare/repository/AnimalAquarioRepository.java
 /home/brayan/Repository/TCC/aquacare-backend/src/main/java/br/edu/ifpr/aquacare/repository/AnimalRepository.java
 /home/brayan/Repository/TCC/aquacare-backend/src/main/java/br/edu/ifpr/aquacare/repository/AquarioRepository.java
